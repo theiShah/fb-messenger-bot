@@ -1,0 +1,9 @@
+https://blog.hartleybrody.com/fb-messenger-bot/
+https://developers.facebook.com/docs/messenger-platform/introduction#send_message
+https://www.facebook.com/XKCD-Testing-Bot-2125753584355690/?view_public_for=2125753584355690
+https://developers.facebook.com/apps/629193000809190/messenger/settings/
+https://devcenter.heroku.com/articles/heroku-cli
+https://github.com/hartleybrody/fb-messenger-bot
+https://xkcd.com/json.html
+https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/#build
+https://github.com/theishah
